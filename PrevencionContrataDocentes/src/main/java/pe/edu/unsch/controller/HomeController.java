@@ -13,5 +13,6 @@ public class HomeController {
 		return "views/admin/home/index";
 		
 	}
+	
 
 }
